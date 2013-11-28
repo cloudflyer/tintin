@@ -4,6 +4,7 @@
 <view name="Group - Stacked Bar" enabled="true" last-modified="1337039655187">
   <chart bgcolor="white" subtitle="$group $daterange" title="$metric0" type="stacked-bar">
     <get-group-data />
+    <get-group-data />
   </chart>
 </view>
 </category>
