@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<views>
+<category name="Example: Basic Charts" enabled="false">
+<view name="Group - Stacked Bar" enabled="true" last-modified="1337039655187">
+  <chart bgcolor="white" subtitle="$group $daterange" title="$metric0" type="stacked-bar">
+    <get-group-data />
+  </chart>
+</view>
+</category>
+</views>
