@@ -5,6 +5,7 @@
   <chart bgcolor="white" subtitle="$group $daterange" title="$metric0" type="stacked-bar">
     <get-group-data />
     <get-group-data />
+	<get-group-data />
   </chart>
 </view>
 </category>
